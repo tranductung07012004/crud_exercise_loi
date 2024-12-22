@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "crud_exercises",
-    "password": "7VxkKjLJQaUQB41CHMWq69bm8BJ3azf7",
-    "database": "crud_exercises_49ea",
-    "host": "dpg-ctk2snlumphs73fe1ot0-a.singapore-postgres.render.com",
+    "username": "nhan_o",
+    "password": "5seNPC67H7JQIFfr29KwLwKjZYKjriXm",
+    "database": "nhan_o",
+    "host": "dpg-ctk3qt52ng1s73bmq40g-a.singapore-postgres.render.com",
     "port": "5432",
     "dialect": "postgres",
     "dialectOptions": {
@@ -21,10 +21,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "crud_exercises",
-    "password": "7VxkKjLJQaUQB41CHMWq69bm8BJ3azf7",
-    "database": "crud_exercises_49ea",
-    "host": "dpg-ctk2snlumphs73fe1ot0-a.singapore-postgres.render.com",
+    "username": "nhan_o",
+    "password": "5seNPC67H7JQIFfr29KwLwKjZYKjriXm",
+    "database": "nhan_o",
+    "host": "dpg-ctk3qt52ng1s73bmq40g-a.singapore-postgres.render.com",
     "port": "5432",
     "dialect": "postgres",
     "dialectOptions": {
